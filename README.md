@@ -79,6 +79,11 @@ Le projet est organisé en plusieurs fichiers MATLAB pour une meilleure lisibili
 1.  **Logiciel** : MATLAB R2020a ou plus récent.
 2.  **Toolboxes** : Aucune toolbox spécifique n'est requise pour la version de base avec le contrôleur PID. *(Mentionnez ici si vous ajoutez des toolboxes pour le MPC ou autre)*.
 
+
 Pour installer, il suffit de cloner ce dépôt :
 ```bash
 git clone https://github.com/bangalconte20-netizen/Quadrotor_with_MPC_controller.git
+
+---
+
+
