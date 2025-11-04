@@ -81,4 +81,4 @@ Le projet est organisé en plusieurs fichiers MATLAB pour une meilleure lisibili
 
 Pour installer, il suffit de cloner ce dépôt :
 ```bash
-git clone https://github.com/VOTRE_NOM_UTILISATEUR/VOTRE_REPO.git
+git clone https://github.com/bangalconte20-netizen/Quadrotor_with_MPC_controller.git
