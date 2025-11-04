@@ -1,1 +1,1 @@
-# Quadrotor_with_MPC_controller
+# Contrôle Prédictif (MPC) et Estimation d'État pour le Suivi de Trajectoire d'un Drone Quadricoptère en Simulation
